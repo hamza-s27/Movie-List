@@ -1,3 +1,5 @@
+import "../css/MovieCard.css"
+
 
 function onFavClick(){
     alert ("clicked")
